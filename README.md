@@ -1,4 +1,4 @@
-Callbacks, Callback Hell, and the Async Library
+Handling Asynchronous Processes with Callbacks
 ===============================================
 
 ## Overview
