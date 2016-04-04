@@ -6,9 +6,7 @@ Callbacks, Callback Hell, and the Async Library
 In this lesson we will learn how to manage a common challenge that one encounters when architecting Node applications: namely, what do you do when you need a part of your program to run *now* and then another part of it to run *later*? This situation, known as "asychronous processing" (or just "async"), is a key Node programming skill. By the end of this lesson you'll be able to:
 
 1. Explain asynchronous processes.
-2. Explain how callbacks make handling the asynchronous  flow of an application easier in Node.
-3. Explain "Callback Hell."
-4. Use the [Async Library ](https://github.com/caolan/async) to avoid callback hell.
+2. Explain how callbacks make handling the asynchronous flow of an application easier in Node.
 
 
 ## What is an asynchronous process?
