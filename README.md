@@ -81,3 +81,7 @@ So let's look at this code. The first two var declarations create two callback f
 The beauty of this is that the (asynchronous) process that occurs on the server, which actually finds and returns the results, can take as long as it needs. Obviously, we don't want it to take a long time since that would annoy the user who is no doubt impatiently waiting for the results, but our program's logic can now handle the indeterminate time-gap of the async process because the process that is fetching the results now knows how to "call back" the process that will display the results once they are in.
 
 So this is what a callback is. Essentially, callbacks are functions that, as one expert has succinctly put it, "wrap or encapsulate the continuation of [a] program" at some unspecified point later.
+
+## Resources
+
+* Excellent longer analysis of async in JS: Kyle Simpson, ["Chapter1: Asynchrony Now & Later"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md) in <u>You Don't Know JS: Async & Performance</u>.
