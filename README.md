@@ -84,4 +84,4 @@ So this is what a callback is. Essentially, callbacks are functions that, as one
 
 ## Resources
 
-* Excellent longer analysis of async in JS: Kyle Simpson, ["Chapter1: Asynchrony Now & Later"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md) in <u>You Don't Know JS: Async & Performance</u>.
+* Excellent longer analysis of async in JS: Kyle Simpson, ["Chapter1: Asynchrony Now & Later"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md) in *You Don't Know JS: Async & Performance*.
