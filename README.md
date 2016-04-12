@@ -92,6 +92,6 @@ So now you know how to explain callbacks. Essentially, callbacks are functions t
 
 ## Resources
 
-* Excellent longer analysis of async in JS: Kyle Simpson,*You Don't Know JS: Async & Performance*, Chs. [1](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md) and [2]https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch2.md()
+* Excellent longer analysis of async in JS: Kyle Simpson,*You Don't Know JS: Async & Performance*, Chs. [1](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md) and [2](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch2.md()
 
 [^1]: Kyle Simpson, Kyle Simpson, ["Chapter 2: Callbacks"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md) in *You Don't Know JS: Async & Performance*.
