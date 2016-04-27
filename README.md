@@ -27,12 +27,12 @@ Let's say we want to write a program that makes a sandhich, a peanut butter sand
 8) Boom! Peanut Butter Sandwich.
 ```
 
-![](http://ezmiller.s3.amazonaws.com/public/flatiron-imgs/peanutbutter.gif)
+![](https://curriculum-content.s3.amazonaws.com/node-js/peanutbutter.gif)
 
 So there we have an algorithm, which can be performed one-step-after-another, i.e., synchronously. Pretty straight-forward. Now let's complicate things.
 
-Let's say that we want our algorithm to use freshly baked bread, and that we also want the algorithm to be able to the handle the scenario in which there's no peanut butter or jelly available. 
-Now we have a problem. Because suddenly step #1 above is going to take time. Worse, it may even take an indefinite amount of time because we don't know *when exactly* the visit to the grocery store will be completed or when the bread will be baked. Anything can happen really. The bread could burn. Our regular grocer, remarkably, could be out of peanut butter! 
+Let's say that we want our algorithm to use freshly baked bread, and that we also want the algorithm to be able to the handle the scenario in which there's no peanut butter or jelly available.
+Now we have a problem. Because suddenly step #1 above is going to take time. Worse, it may even take an indefinite amount of time because we don't know *when exactly* the visit to the grocery store will be completed or when the bread will be baked. Anything can happen really. The bread could burn. Our regular grocer, remarkably, could be out of peanut butter!
 
 Suddenly our nice algorithmic recipe above is no longer synchronous. It's **A**sychronous! We cannnot proceed with step #3 until all of the processes involved in step #2 have finished. Using our more general definition of async above, here we have a situation in which we want part of our program (i.e. the preparation of the work space and the intial gathering of ingredients) to run immediately; then later, at some undetermined moment when we have everything, we want to complete the task (i.e. make the sandwich).
 
@@ -79,7 +79,7 @@ Just to show you an alternate syntax for writing callbacks, we coould have achie
 function fetchResults(searchTerm) {
   var url = 'http://www.googleapis.com/books/v1/volumes?q=' + searchTerm;
   $.get(url, function(data) {
-     // Display results on the page. 
+     // Display results on the page.
   });
 }
 
