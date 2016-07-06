@@ -12,7 +12,7 @@ What do we do when we need a part of our program to run *now* and then another p
 
 So what are asynchronous processes? The term sounds intimidating. Above, we learned that we are dealing with async when we want to run part of our program now, and part of it later. But what does this really mean in concrete terms. Let's take a real-life example, far from the world of web applications.
 
-Let's say we want to write a program that makes a sandhich, a peanut butter sandwhich. What are the steps? Well, we all know that:
+Let's say we want to write a program that makes a sandwich, a peanut butter sandwich. What are the steps? Well, we all know that:
 
 ```
 1) Prepare workspace.  
@@ -95,3 +95,5 @@ So now you know how to explain callbacks. Essentially, callbacks are functions t
 * Excellent longer analysis of async in JS: Kyle Simpson,*You Don't Know JS: Async & Performance*, Chs. [1](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md) and [2](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch2.md)
 
 [^1]: Kyle Simpson, Kyle Simpson, ["Chapter 2: Callbacks"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md) in *You Don't Know JS: Async & Performance*.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/node-js-callbacks-readme'>Callbacks and the Async Library</a> on Learn.co and start learning to code for free.</p>
