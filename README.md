@@ -3,7 +3,7 @@ Handling Asynchronous Processes with Callbacks
 
 ## Overview
 
-What do we do when we need a part of our program to run *now* and then another part of it to run *later*? This situation, known as "asychronous processing" (or just "async"), is a key Node programming skill. This is what we will focus on in this lesson. By the nd of it you will be able to:
+What do we do when we need a part of our program to run *now* and then another part of it to run *later*? This situation, known as "asychronous processing" (or just "async"), is a key Node programming skill. This is what we will focus on in this lesson. By the end of it you will be able to:
 
 1. Explain asynchronous processes.
 2. Explain how callbacks make handling the asynchronous flow of an application easier in Node.
@@ -95,3 +95,5 @@ So now you know how to explain callbacks. Essentially, callbacks are functions t
 * Excellent longer analysis of async in JS: Kyle Simpson,*You Don't Know JS: Async & Performance*, Chs. [1](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md) and [2](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch2.md)
 
 [^1]: Kyle Simpson, Kyle Simpson, ["Chapter 2: Callbacks"](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch1.md) in *You Don't Know JS: Async & Performance*.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/node-js-callbacks-readme'>Callbacks and the Async Library</a> on Learn.co and start learning to code for free.</p>
