@@ -3,7 +3,7 @@ Handling Asynchronous Processes with Callbacks
 
 ## Overview
 
-What do we do when we need a part of our program to run *now* and then another part of it to run *later*? This situation, known as "asychronous processing" (or just "async"), is a key Node programming skill. This is what we will focus on in this lesson. By the nd of it you will be able to:
+What do we do when we need a part of our program to run *now* and then another part of it to run *later*? This situation, known as "asychronous processing" (or just "async"), is a key Node programming skill. This is what we will focus on in this lesson. By the end of it you will be able to:
 
 1. Explain asynchronous processes.
 2. Explain how callbacks make handling the asynchronous flow of an application easier in Node.
