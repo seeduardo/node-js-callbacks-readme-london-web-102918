@@ -10,7 +10,7 @@ What do we do when we need a part of our program to run *now* and then another p
 
 ## What is an asynchronous process?
 
-So what are asynchronous processes? The term sounds intimidating. Above, we learned that we are dealing with async when we want to run part of our program now, and part of it later. But what does this really mean in concrete terms. Let's take a real-life example, far from the world of web applications.
+So what are asynchronous processes? The term sounds intimidating. Above, we learned that we are dealing with async when we want to run part of our program now, and part of it later. But what does this really mean in concrete terms? Let's take a real-life example, far from the world of web applications.
 
 Let's say we want to write a program that makes a sandwich, a peanut butter sandwich. What are the steps? Well, we all know that:
 
